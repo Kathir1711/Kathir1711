@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Kathir...</h1>
-<h3 align="center">Full stack developer,UI&UX design</h3>
+<h1 align="center">Hi 👋, I'm Kathir</h1>
+<h2 align="center">computer science student,
+</h2>
+<h3 align="center">Full stack developer,UI&UX design
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kathir1711&label=Profile%20views&color=0e75b6&style=flat" alt="kathir1711" /> </p>
+ 🚀 Intergalactic Code Wizard and Designing crazy things🪄 | Fueled by 🍕 and ☕ | Constantly pushing the boundaries of what's possible with 1's and 0's | My code is so clean, it's practically sterile 🧼 | Bug exterminator by day 🐞, open-source superhero by night 🦸‍♂️ | Exploring the uncharted territories of the programming universe and Designing universe 🌌 |  Let's collaborate and make the internet a weirder and more wonderful place! 🌍🚀
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kathir1711" alt="kathir1711" /></a> </p>
 
-- 🌱 I’m currently learning **React,Flutter,Dart,Game designs**
+- 🌱 I’m currently learning **React,Flutter,Dart**
 
 - 📫 How to reach me **kathirofficial156@gmail.com**
 
@@ -16,11 +18,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/kathir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kathir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kathir-arumugam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kathir-arumugam" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/kathir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kathir" height="30" width="40" /></a>
-<a href="https://instagram.com/kathirx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kathirx" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kattire the noah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kattire the noah" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kathir1711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kathir1711" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kathir-arumugam-133ba224a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kathir-arumugam-133ba224a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/25920466/kathir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/25920466/kathir" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_kathixxr_?igsh=bhv5cdhmzgg4a2n2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_kathixxr_?igsh=bhv5cdhmzgg4a2n2" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/kathirofficial11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/kathirofficial11" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/kathir1711/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kathir1711/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kathir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kathir" height="30" width="40" /></a>
 <a href="https://discord.gg/Kathir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kathir" height="30" width="40" /></a>
 </p>
 
@@ -33,8 +36,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kathir1711&" alt="kathir1711" /></p>
 
-
- 🚀 Intergalactic Code Wizard and Designing crazy things🪄 | Fueled by 🍕 and ☕ | Constantly pushing the boundaries of what's possible with 1's and 0's | My code is so clean, it's practically sterile 🧼 | Bug exterminator by day 🐞, open-source superhero by night 🦸‍♂️ | Exploring the uncharted territories of the programming universe and Designing universe 🌌 |  Let's collaborate and make the internet a weirder and more wonderful place! 🌍🚀
 
 
 <!---
