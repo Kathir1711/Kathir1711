@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kathir</h1>
-<h2 align="center">computer science student,
+<h2 align="center">computer science student
 </h2>
-<h3 align="center">Full stack developer,UI&UX design
+<h3 align="center">Full stack developer,app design,UI&UX design
 </h3>
 
  🚀 Intergalactic Code Wizard and Designing crazy things🪄 | Fueled by 🍕 and ☕ | Constantly pushing the boundaries of what's possible with 1's and 0's | My code is so clean, it's practically sterile 🧼 | Bug exterminator by day 🐞, open-source superhero by night 🦸‍♂️ | Exploring the uncharted territories of the programming universe and Designing universe 🌌 |  Let's collaborate and make the internet a weirder and more wonderful place! 🌍🚀
