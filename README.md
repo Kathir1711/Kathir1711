@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kathir</h1>
+<h1 align="center">Hello 👋, I'm Kathir</h1>
 <h2 align="center">computer science student
 </h2>
 <h3 align="center">Full stack developer,app design,UI&UX design
