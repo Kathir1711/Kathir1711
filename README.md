@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm Kathir</h1>
-<h2 align="center">computer science student
+<h2 align="center">software Developer
 </h2>
 
 
